@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YahyaRechaki
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Laravel
+- 🌱 I’m currently learning ReactJS and NodeJS
 - 📫 How to reach me, LinkedIn : https://www.linkedin.com/in/yahya-rechaki-98a10819a/
 
 <!---
