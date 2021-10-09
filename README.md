@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @YahyaRechaki
+- M.Sc in Computer Science
 - 👀 I’m interested in Web Development && Desktop Apps
 - 🌱 I’m currently learning:
       Frameworks/Libraries: ReactJS && NodeJS && ElectronJS.
