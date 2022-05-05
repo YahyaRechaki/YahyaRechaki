@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @YahyaRechaki
 - M.Sc in Computer Science
-- 👀 I’m interested in Web Development && Desktop Apps
+- 👀 I’m interested in Virtualisation, Cloud, InfoSec, DevOps
 - 🌱 I’m currently learning:
       Frameworks/Libraries: ReactJS && NodeJS && ElectronJS.
-      Languages: Java, Python.
+      Languages: Javascript, Python.
 - 📫 How to reach me, LinkedIn : https://www.linkedin.com/in/yahya-rechaki-98a10819a/ or Gmail: yahya.rechaki@gmail.com
 
 <!---
