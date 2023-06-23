@@ -5,7 +5,7 @@
 
       Languages: Javascript/TypeScript, Java, Python.
       Front-End: React.js, Vue.js, Angular.
-      Back-End: Nodejs/Expressjs, Spring Boot.
+      Back-End: Nodejs/Expressjs, Nestjs, Spring Boot.
       Database: MySQL, MongoDB, ArangoDB.
       
 - 👀 I’m interested in Virtualisation, Cloud, InfoSec, DevOps
