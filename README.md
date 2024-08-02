@@ -1,14 +1,14 @@
 👋 Hi, I’m @YahyaRechaki
 - M.Sc in Computer Science and Information Systems
-- I'm a Full Stack Software Enginner, most of time in Back-End.
+- Full Stack Software Enginner, most of time in Back-End.
 - 🌱 My frequently used Technologies/Languages are (but not limited to):
 
-      Languages: Javascript/TypeScript, Java, Python.
-      Front-End: React.js, Vue.js, Angular.
-      Back-End: Nodejs/Expressjs, Nestjs, Spring Boot.
-      Database: MySQL, MongoDB, ArangoDB, PostgreSQL.
+      Languages: Javascript/TypeScript, Java.
+      Front-End: Angular.
+      Back-End: Nestjs, Nodejs/Expressjs.
+      Database: PostgreSQL, MongoDB, MySQL, ArangoDB.
       
-- 👀 I’m interested in Virtualisation, Cloud, InfoSec, DevOps
+- 👀 I’m interested in Cloud and DevOps and I like linux.
 - 📫 How to reach me, LinkedIn : https://www.linkedin.com/in/yahya-rechaki-98a10819a/ or Gmail: yahya.rechaki@gmail.com
 
 <!---
